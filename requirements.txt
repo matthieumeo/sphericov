@@ -1,0 +1,9 @@
+scipy == 1.7.3
+numpy == 1.20.3
+jupyterlab == 3.2.4
+dask[array] == 2021.11.2
+sparse == 0.13.0
+healpy == 1.15.0
+pycsou == 1.0.6
+pycsphere == 1.0.2
+pycgsp == 1.0.4
