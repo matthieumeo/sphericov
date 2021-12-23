@@ -38,5 +38,6 @@ Once the dependencies installed, you can run the companion notebook by executing
 
    >> git clone https://github.com/matthieumeo/sphericov
    >> cd <repository_dir>/
+   >> conda activate sphericov
    >> jupyter lab companion_nb.ipynb
 
