@@ -1,7 +1,7 @@
 Instructions
 ############
 
-This repository hosts the companion Jupyter notebook for the paper "Nonparametric Estimation of Covariance and Autocovariance Operators on the Sphere", from Alessia Caponera, Julien Fageot, Matthieu Simeoni and Victor Panaretos.
+This repository hosts the companion Jupyter notebook for the paper `"Functional Estimation of Anisotropic Covariance and Autocovariance Operators on the Sphere" <https://arxiv.org/abs/2112.12694>`_, from Alessia Caponera, Julien Fageot, Matthieu Simeoni and Victor Panaretos.
 
 The code was written by `Matthieu Simeoni <mailto:matthieu.simeoni@gmail.com>`_. 
 
